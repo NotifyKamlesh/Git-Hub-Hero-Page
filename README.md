@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Kamlesh Kumar</h1>
+![logo](https://github.com/NotifyKamlesh/NotifyKamlesh/blob/main/hey.gif)
 <h3 align="center">A passionate Java Fullstack developer.</h3>
 <img align="right" alt="coding" width="380" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> 
 
