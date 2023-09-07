@@ -3,15 +3,15 @@
 <img align="right" alt="coding" width="380" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> 
 
 
-- 🔭 I’m currently working on **Maven Project**
+ I’m currently working on **Maven Project**
 
-- 🌱 I’m currently learning **Hibernate/JPA**
+ I’m currently learning **Hibernate/JPA**
 
-- 💬 Ask me about **Java,J2EE,Hibernate,JPA,ReactJS,JS,CSS3,HTML5**
+ Ask me about **Java,J2EE,Hibernate,JPA,ReactJS,JS,CSS3,HTML5**
 
-- 📫 How to reach me **notifykamlesh@gmail.com**
+ How to reach me **notifykamlesh@gmail.com**
 
-- ⚡ Fun fact **I think I'm discipline and hard working student**
+Fun fact **I think I'm discipline and hard working student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
